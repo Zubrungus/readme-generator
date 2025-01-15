@@ -1,0 +1,19 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "generates readme via user input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zubrungus/readme-generator.git"
+  },
+  "author": "Nick Bappe",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Zubrungus/readme-generator/issues"
+  },
+  "homepage": "https://github.com/Zubrungus/readme-generator#readme"
+}
