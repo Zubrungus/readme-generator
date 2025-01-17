@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/Zubrungus/readme-generator.git"
   },
+  "type": "module",
   "author": "Nick Bappe",
   "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/Zubrungus/readme-generator/issues"
   },
-  "homepage": "https://github.com/Zubrungus/readme-generator#readme"
+  "homepage": "https://github.com/Zubrungus/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^12.3.2"
+  }
 }
