@@ -12,6 +12,7 @@ A node.js application that assists with creating a README for a repository
 Clone this repository to your local machine 
 ## Usage
 Navigate to the cloned repository and run "node index" to begin the process. Simply follow the prompts in order to generate your repository's README.\
+Video demonstrating functionality: https://drive.google.com/file/d/16eQ8NFRT4_Cw6Ttz9XVcCJAe7PNvgepA/view\
 ![Installation example](./ReadmeGeneratorExample.PNG)
 ## License
 This software is covered under the GNU GPL V3 license
